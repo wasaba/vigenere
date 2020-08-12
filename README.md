@@ -1,0 +1,1 @@
+Le vigenère est une méthode de chiffrement qui consiste à chiffrer une valeur avec une clée, par la suite, avec l'aide d'un certain calcul mathémathique, chaque lettre de la valeur donnée va être chiffrée par association à la clée.
